@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/alexa-kearns-8558a754/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="48" width="48" align="right"></a>  |
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="48" width="48" align="right"></a> 
 <h1 align="center">
 Alexa Kearns  
 </h1>
