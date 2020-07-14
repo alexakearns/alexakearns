@@ -23,13 +23,4 @@ A summary of my key projects.
 | Bank Tech Test     | Command Line Program to emulate a bank account                  | Individual              | Ruby                              | RSpec              | [Bank Tech Test - Github](https://github.com/alexakearns/bank_tech_test)                                                                                                                                 |
 | Acebook/GAPAG Book | Social Media site with login authentication and message posting | Group Project - 2 Weeks | Ruby on Rails, PostgreSQL         | RSpec              | [GAPAG Book - Github](https://github.com/alexakearns/acebook-rails-template), [Deployed App](https://gapag1.herokuapp.com/)                                                                              |
 | News Summary       | Front end application using Guardian News API                   | Individual              | Javascript, JSON, Node, HTML, CSS | Jasmine            | [News Summary - Github](https://github.com/alexakearns/news-summary-challenge)                                                                                                                           |
-| MakersBnB          | AirBnB clone                                                    | Group Project, 1 week   | Javascript, HTML, CSS             | Jasmine            | [MakersBnB - Github](https://github.com/alexakearns/MakersBnB)                                                                                                                                           |
-
-| Type                   | Skill                                                    |
-| ---------------------- | -------------------------------------------------------- |
-| Languages              | Javascript, Node.js, Ruby, SQL, HTML, CSS                |
-| Testing                | Jasmine, Jest, EnzymeMocha, Chai, Sinon, RSpec, Capybara |
-| Frameworks             | Express, React, Rails                                    |
-| Databases              | MongoDB, PostgreSQL                                      |
-| Tooling                | Git, Github, Travis CI/CD, Surge, Heroku, VS Code        |
-| Methodologies/Concepts | TDD, BDD, OOP                                            |
+| MakersBnB          | AirBnB clone                                                    | Group Project, 1 week   | Javascript, HTML, CSS             | Jasmine            | [MakersBnB - Github](https://github.com/alexakearns/MakersBnB)                                                                                           
