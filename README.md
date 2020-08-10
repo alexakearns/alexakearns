@@ -6,10 +6,10 @@ Alexa Kearns
 <br>
 <div align="center">
 <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/Ruby-516%20commits-red.svg" alt="Ruby"></a> 
-<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-335%20commits-yellow.svg" alt="Javascript"></a> 
-<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-297%20commits-orange.svg" alt="HTML"></a> 
-<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/CSS-273%20commits-purple.svg" alt="CSS"></a> 
-<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-58%20commits-blue.svg" alt="SQL"></a>
+<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-441%20commits-yellow.svg" alt="Javascript"></a> 
+<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-403%20commits-orange.svg" alt="HTML"></a> 
+<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/CSS-367%20commits-purple.svg" alt="CSS"></a> 
+<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-152%20commits-blue.svg" alt="SQL"></a>
 <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/TypeScript-26%20commits-green.svg" alt=""></a>
 </div>
 
